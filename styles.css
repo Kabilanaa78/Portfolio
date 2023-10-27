@@ -1,0 +1,54 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-style: italic;
+
+
+}
+
+header {
+    background-color: #b69d2f;
+    color: #fff;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    padding: 40px 0;
+}
+
+.about {
+    background-color: #817e7e;
+}
+
+.portfolio {
+    background-color: #817e7e;
+}
+
+.contact {
+    background-color: #817e7e;
+}
+
+
+
+/* Add more CSS to style your portfolio as desired */
